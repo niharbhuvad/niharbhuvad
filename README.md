@@ -23,3 +23,8 @@ Status: Actively Building Real-World DevOps Systems<br>
 🖥 OS & Scripting
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" /> </p> <p align="center"> <img src="https://img.shields.io/badge/System_Administration-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/Scripting_&_Automation-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" /> </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niharbhuvad/niharbhuvad/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
