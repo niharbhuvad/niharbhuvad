@@ -30,9 +30,7 @@ Status: Actively Building Real-World DevOps Systems<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharbhuvad&label=Profile%20views&color=0e75b6&style=flat" alt="niharbhuvad" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niharbhuvad&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="left"> <a href="https://twitter.com/niharbhuvad9" target="blank"><img src="https://img.shields.io/twitter/follow/niharbhuvad9?logo=twitter&style=for-the-badge" alt="niharbhuvad9" /></a> </p>
 
 
